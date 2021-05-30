@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Songh-oon
+- 👋 Hi, I’m @songh-oon
 
 <!---
 Songh-oon/Songh-oon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
